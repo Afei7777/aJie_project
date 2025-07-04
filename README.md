@@ -2,6 +2,7 @@
 
 push_test
 push_test2
+push_test_http
 
 #### 介绍
 
