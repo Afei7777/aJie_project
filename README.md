@@ -5,6 +5,7 @@ push_test2
 push_test_http
 push_test_http2
 push_test_http3
+push_test_http4
 
 #### 介绍
 
