@@ -1,5 +1,7 @@
 # open_html_vscode_all
 
+push_test_github
+
 push_test
 push_test2
 push_test_http
